@@ -7,3 +7,8 @@ print("ask" * 3)
 x = ("Hello World")
 print(x)
 print("ask " + "elka")
+color = "red"
+print("my favorite color is " + color)
+
+name= input("Name: ")
+print("Hello " + name +"!")
